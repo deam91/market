@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1089356401281",
+    "project_id": "market-f836b",
+    "storage_bucket": "market-f836b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089356401281:android:7af5f29527dc75b5c91b80",
+        "android_client_info": {
+          "package_name": "com.deamdeveloper.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089356401281-s9v6nikvogp5ipojpofq7j8kuhdqc51h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnMqLAKbgP5NrAgpnZAdi7cScxjwPNDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089356401281-s9v6nikvogp5ipojpofq7j8kuhdqc51h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089356401281-13kdv8o6lsreknvd09ef6dhp5cilb260.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deamdeveloper.market.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

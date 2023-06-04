@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Organic Apples",
+    "image": "https://example.com/organic_apples.jpg",
+    "productId": "f98d2a22-5c5d-4a38-acf3-1c4f2c3569d2",
+    "price": 233.22,
+    "offers": [
+      "a1a1a1a1-1111-2222-3333-cccccccccccc",
+      "b2b2b2b2-4444-5555-6666-dddddddddddd"
+    ],
+    "details": [
+      {
+        "title": "Nutrition Information",
+        "description": "Organic Apples are high in fiber and vitamin C"
+      },
+      {
+        "title": "Storage Information",
+        "description": "Store apples in a cool, dry place"
+      }
+    ],
+    "supplies": [
+      {
+        "title": "Production",
+        "steps": [
+          {
+            "title": "Harvesting",
+            "image": "https://example.com/harvesting.jpg",
+            "message": "Your apples are being harvested",
+            "date": "2022-05-25T08:00:00Z",
+            "location": "Farm A"
+          },
+          {
+            "title": "Sorting",
+            "image": "https://example.com/sorting.jpg",
+            "message": "Your apples are being sorted",
+            "date": "2022-05-26T10:00:00Z",
+            "location": "Sorting Center"
+          }
+        ],
+        "createdAt": "2022-05-24T08:00:00Z"
+      },
+      {
+        "title": "Manufacturing",
+        "steps": [
+          {
+            "title": "Juicing",
+            "image": "https://example.com/juicing.jpg",
+            "message": "Your apples are being juiced",
+            "date": "2022-05-27T08:00:00Z",
+            "location": "Juicing Center"
+          },
+          {
+            "title": "Packaging",
+            "image": "https://example.com/packaging.jpg",
+            "message": "Your apple juice is being packaged",
+            "date": "2022-05-28T10:00:00Z",
+            "location": "Packaging Center"
+          }
+        ],
+        "createdAt": "2022-05-26T08:00:00Z"
+      },
+      {
+        "title": "Delivery",
+        "steps": [
+          {
+            "title": "Packing",
+            "image": "https://example.com/packing.jpg",
+            "message": "Your apple juice is being packed for delivery",
+            "date": "2022-05-29T08:00:00Z",
+            "location": "Warehouse A"
+          },
+          {
+            "title": "Shipping",
+            "image": "https://example.com/shipping.jpg",
+            "message": "Your apple juice is on its way",
+            "date": "2022-05-30T10:00:00Z",
+            "location": "Shipping Center"
+          }
+        ],
+        "createdAt": "2022-05-28T08:00:00Z"
+      }
+    ],
+    "quantity": 5,
+    "maxQuantityPerOrder": 10,
+    "createdAt": "2022-05-01T12:00:00Z"
+  },
+  {
+    "name": "Organic Pasta",
+    "image": "https://example.com/organic_pasta.jpg",
+    "productId": "b4e6d162-8c0b-4a9b-9e1f-96d3d2d99d45",
+    "price": 49.99,
+    "offers": [
+      "h5h5h5h5-1111-2222-3333-iiiiiiiiiiii",
+      "j6j6j6j6-4444-5555-6666-kkkkkkkkkkkk"
+    ],
+    "details": [
+      {
+        "title": "Ingredients",
+        "description": "This organic pasta is made from organic durum wheat semolina and water, providing you with a wholesome and healthy meal."
+      },
+      {
+        "title": "Allergens",
+        "description": "This pasta contains wheat and may contain traces of soy. It is free from other common allergens like nuts, dairy, and eggs."
+      },
+      {
+        "title": "Preparation Instructions",
+        "description": "To enjoy this pasta, simply cook it in boiling water for 10-12 minutes until al dente. Drain and serve with your favorite sauce or toppings."
+      }
+    ],
+    "supplies": [
+      {
+        "title": "Production",
+        "steps": [
+          {
+            "title": "Mixing",
+            "image": "https://example.com/pasta_mixing.jpg",
+            "message": "Your pasta is being mixed in the Mixing Center, where we carefully blend the organic durum wheat semolina and water to create the perfect pasta dough.",
+            "date": "2022-10-05T08:00:00Z",
+            "location": "Mixing Center"
+          },
+          {
+            "title": "Extruding",
+            "image": "https://example.com/pasta_extruding.jpg",
+            "message": "Your pasta is being extruded in the Extruding Center, where we shape the pasta dough into the desired shapes and sizes.",
+            "date": "2022-10-06T10:00:00Z",
+            "location": "Extruding Center"
+          },
+          {
+            "title": "Drying",
+            "image": "https://example.com/pasta_drying.jpg",
+            "message": "Your pasta is being dried in the Drying Center, where we carefully control the temperature and humidity to ensure optimal drying.",
+            "date": "2022-10-07T12:00:00Z",
+            "location": "Drying Center"
+          }
+        ],
+        "createdAt": "2022-10-04T08:00:00Z"
+      },
+      {
+        "title": "Packaging",
+        "steps": [
+          {
+            "title": "Weighing",
+            "image": "https://example.com/pasta_weighing.jpg",
+            "message": "Your pasta is being weighed in the Weighing Center, where we ensure that each package contains the correct amount of pasta.",
+            "date": "2022-10-08T08:00:00Z",
+            "location": "Weighing Center"
+          },
+          {
+            "title": "Packing",
+            "image": "https://example.com/pasta_packing.jpg",
+            "message": "Your pasta is being packed in the Packing Center, where we carefully seal the packages to keep the pasta fresh and delicious.",
+            "date": "2022-10-09T10:00:00Z",
+            "location": "Packing Center"
+          }
+        ],
+        "createdAt": "2022-10-07T08:00:00Z"
+      },
+      {
+        "title": "Delivery",
+        "steps": [
+          {
+            "title": "Packing",
+            "image": "https://example.com/pasta_packing.jpg",
+            "message": "Your pasta is being packed for delivery in Warehouse C, where we carefully prepare your order for shipment.",
+            "date": "2022-10-10T08:00:00Z",
+            "location": "Warehouse C"
+          },
+          {
+            "title": "Shipping",
+            "image": "https://example.com/pasta_shipping.jpg",
+            "message": "Your pasta is on its way and will be delivered to you within 2-3 business days.",
+            "date": "2022-10-11T10:00:00Z",
+            "location": "Shipping Center"
+          }
+        ],
+        "createdAt": "2022-10-09T08:00:00Z"
+      }
+    ],
+    "quantity": 20,
+    "maxQuantityPerOrder": 50,
+    "createdAt": "2022-10-01T12:00:00Z"
+  },
+  {
+    "name": "Instant Noodles",
+    "image": "https://example.com/instant_noodles.jpg",
+    "productId": "d7f4a785-efb3-4d49-b8d3-3c6c6f0e0e50",
+    "price": 29.99,
+    "offers": [
+      "a1a1a1a1-1111-2222-3333-bbbbbbbbbbbb",
+      "c2c2c2c2-4444-5555-6666-dddddddddddd"
+    ],
+    "details": [
+      {
+        "title": "Ingredients",
+        "description": "This instant noodle pack contains wheat flour, palm oil, salt, and seasoning, providing you with a quick and easy meal."
+      },
+      {
+        "title": "Allergens",
+        "description": "This product contains wheat and soy, and may contain traces of egg, fish, and milk. It is not recommended for those with food allergies."
+      },
+      {
+        "title": "Preparation Instructions",
+        "description": "To prepare this instant noodle pack, simply add the noodles to boiling water and cook for 3 minutes. Drain the water and add the seasoning for a delicious and satisfying meal."
+      }
+    ],
+    "supplies": [
+      {
+        "title": "Production",
+        "steps": [
+          {
+            "title": "Mixing",
+            "image": "https://example.com/noodles_mixing.jpg",
+            "message": "Your noodles are being mixed in the Mixing Center, where we carefully blend the ingredients to create the perfect noodle dough.",
+            "date": "2022-11-15T08:00:00Z",
+            "location": "Mixing Center"
+          },
+          {
+            "title": "Cutting",
+            "image": "https://example.com/noodles_cutting.jpg",
+            "message": "Your noodles are being cut in the Cutting Center, where we shape the noodle dough into the desired shape and size.",
+            "date": "2022-11-16T10:00:00Z",
+            "location": "Cutting Center"
+          },
+          {
+            "title": "Frying",
+            "image": "https://example.com/noodles_frying.jpg",
+            "message": "Your noodles are being fried in the Frying Center, where we cook the noodles until they are crispy and delicious.",
+            "date": "2022-11-17T12:00:00Z",
+            "location": "Frying Center"
+          }
+        ],
+        "createdAt": "2022-11-14T08:00:00Z"
+      },
+      {
+        "title": "Packaging",
+        "steps": [
+          {
+            "title": "Weighing",
+            "image": "https://example.com/noodles_weighing.jpg",
+            "message": "Your noodles are being weighed in the Weighing Center, where we ensure that each package contains the correct amount of noodles.",
+            "date": "2022-11-18T08:00:00Z",
+            "location": "Weighing Center"
+          },
+          {
+            "title": "Packing",
+            "image": "https://example.com/noodles_packing.jpg",
+            "message": "Your noodles are being packed in the Packing Center, where we carefully seal the packages to keep the noodles fresh and delicious.",
+            "date": "2022-11-19T10:00:00Z",
+            "location": "Packing Center"
+          }
+        ],
+        "createdAt": "2022-11-17T08:00:00Z"
+      },
+      {
+        "title": "Delivery",
+        "steps": [
+          {
+            "title": "Packing",
+            "image": "https://example.com/noodles_packing.jpg",
+            "message": "Your noodles are being packed for delivery in Warehouse D, where we carefully prepare your order for shipment.",
+            "date": "2022-11-20T08:00:00Z",
+            "location": "Warehouse D"
+          },
+          {
+            "title": "Shipping",
+            "image": "https://example.com/noodles_shipping.jpg",
+            "message": "Your noodles are on their way and will be delivered to you within 2-3 business days.",
+            "date": "2022-11-21T10:00:00Z",
+            "location": "Shipping Center"
+          }
+        ],
+        "createdAt": "2022-11-19T08:00:00Z"
+      }
+    ],
+    "quantity": 50,
+    "maxQuantityPerOrder": 100,
+    "createdAt": "2022-11-10T12:00"
+  }
+]
